@@ -2,7 +2,7 @@
     "name": "rubenssfreitas/ecommerce",
     "authors": [
         {
-            "name": "Rubens S. Freitas",
+            "name": "Rubens Freitas",
             "email": "rubens.suporte@gmail.com"
         }
     ],
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\container\\php-classes\\src"
+            "container\\": "vendor\\container\\php-classes\\src"
         }
     }
 }
